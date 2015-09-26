@@ -1,0 +1,15 @@
+{
+  "name": "Exost/TD2",
+  "description": "Projet DUT",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Exost",
+      "email": "elvy66@live.fr"
+    }
+  ],
+  "require": {
+
+  }
+}
